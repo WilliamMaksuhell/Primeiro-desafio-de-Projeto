@@ -1,0 +1,4 @@
+#Primero Arquivo GIT
+
+Criando meu primeiro arquivo via git
+A inteção é que isso apareça no meu ithub
